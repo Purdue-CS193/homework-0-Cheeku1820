@@ -1,3 +1,11 @@
+# Nikhit's First CS193 Homework
+
+- Basketball
+- Playing with my dog
+- Watching a good TV show
+- Making Food
+- Hanging out with friends and family
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
